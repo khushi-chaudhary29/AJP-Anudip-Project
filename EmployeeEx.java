@@ -24,6 +24,7 @@ class Employee{
         System.out.println(name);
         System.out.println(age);
         System.out.println(salary);
+        Sytem.out.println("this is for testing");
     }
 }
 public class EmployeeEx{
